@@ -1,0 +1,221 @@
+1
+12
+W1
+8 7
+2
+Lindos 4 0
+Kamejros 4 7
+3
+0 0 6 2
+2 3 6 4
+2 5 6 6
+W2
+14 12
+2
+Malia 14 1
+Knossos 1 12
+5
+2 6 10 10
+11 1 12 6
+8 1 10 5
+11 7 12 9
+3 2 5 4
+W3
+1 1
+1
+Korkyra 0 0
+0
+W5
+1 1
+2
+Zero 0 0
+Jeden 1 1
+1
+0 0 1 1
+W6
+1 1
+2
+Zero 0 0
+Jeden 1 1
+1
+0 0 1 1
+W4
+1 1
+2
+Zero 0 0
+Jeden 1 1
+1
+0 0 1 1
+Wypas
+56 40
+6
+Vala 0 26
+Umba 15 40
+Kasa 56 17
+Sembo 34 0
+Terra 3 0
+Neva 41 40
+42
+22 14 26 38
+29 14 39 22
+29 24 31 38
+33 24 36 30
+33 32 36 38
+38 24 40 39
+43 29 54 32
+47 25 50 36
+46 20 49 23
+52 20 55 23
+52 14 55 17
+46 14 49 17
+50 14 51 23
+46 18 55 19
+41 9 44 20
+46 9 55 12
+50 2 54 6
+46 2 49 7
+35 1 45 4
+25 5 42 6
+12 2 33 4
+12 5 23 6
+9 7 39 12
+5 1 10 6
+5 7 7 14
+2 1 4 10
+1 16 20 22
+18 23 20 39
+12 24 16 30
+12 31 16 38
+1 24 3 26
+5 24 7 26
+9 24 11 26
+1 28 3 30
+5 28 7 30
+9 28 11 30
+1 31 4 34
+5 31 7 34
+8 31 11 34
+1 35 4 38
+5 35 7 38
+8 35 11 38
+Yokohama
+20 18
+3
+Honsiu 0 11
+Yoko 14 0
+Misso 20 17
+6
+1 1 3 10
+5 2 18 4
+6 6 14 14
+16 5 18 10
+16 11 18 17
+1 16 14 17
+Radom
+15 18
+4
+Roko 0 13
+Bardzo 6 0
+Szabo 15 15
+Seba 7 18
+3
+2 2 4 16
+6 5 9 15
+11 2 13 16
+Siva
+17 18
+4
+Rogi 0 18
+Podhani 6 0
+Sakwa 17 10
+Skarpa 11 18
+6
+2 2 8 4
+1 5 8 10
+1 12 8 16
+9 1 11 15
+13 2 15 8
+13 10 15 16
+Szeba
+31 18
+5
+Ramda 23 18
+Balba 0 8
+Halba 11 0
+Rotwa 31 6
+Yerba 22 0
+8
+2 2 7 5
+2 8 7 11
+7 2 14 11
+17 1 21 12
+23 3 24 11
+26 1 30 4
+27 7 29 15
+1 13 25 16
+Rossi
+24 18
+6
+Ogon 0 7
+Ucho 16 0
+Nos 24 7
+Noga 13 18
+Lapa 8 0
+Dupa 3 18
+19
+1 1 4 4
+1 5 4 8
+1 9 4 12
+1 13 4 17
+5 1 8 4
+5 5 8 8
+5 9 8 13
+5 14 8 17
+9 1 12 4
+9 5 12 9
+9 10 12 13
+9 14 12 17
+13 1 16 5
+13 6 16 9
+13 10 16 13
+13 14 16 17
+17 1 20 17
+21 1 23 9
+21 10 23 17
+35
+Kamejros W1 Knossos W2 100
+Malia W2 Korkyra W3 100
+Lindos W1 Honsiu Yokohama 150
+Lindos W1 Yerba Szeba 70
+Honsiu Yokohama Neva Wypas 150
+Yoko Yokohama Vala Wypas 70
+Yoko Yokohama Halba Szeba 50
+Yoko Yokohama Balba Szeba 50
+Misso Yokohama Rogi Siva 150
+Misso Yokohama Roko Radom 300
+Rotwa Szeba Knossos W2 45
+Ramda Szeba Terra Wypas  150
+Ramda Szeba Rogi Siva  150
+Sembo Wypas Malia W2 50
+Kasa Wypas Ucho Rossi 50
+Umba Wypas Podhani Siva 30
+Vala Wypas Dupa Rossi 60
+Skarpa Siva Szabo Radom 100
+Sakwa Siva Noga Rossi 70
+Sakwa Siva Ogon Rossi 70
+Bardzo Radom Ucho Rossi 30
+Roko Radom Nos Rossi 45
+Lapa Rossi Korkyra W3 30
+Jeden W4 Zero W5 10
+Jeden W5 Zero W6 10
+Jeden W5 Zero W6 7
+Jeden W5 Zero W6 6
+Jeden W5 Zero W6 5
+Jeden W5 Zero W6 4
+Jeden W5 Zero W6 3
+Jeden W5 Zero W6 2
+Jeden W5 Zero W6 1
+Jeden W5 Zero W6 1
+Korkyra W3 Zero W4 10
+Jeden W6 Bardzo Radom 10
+Korkyra W3 Bardzo Radom
