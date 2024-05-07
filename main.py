@@ -439,7 +439,7 @@ class Wyspa:
 
 def main():
     przypadki_ignorowane = [65]  # nie wiedziec czemu na ten jeden przypadek podaje nieprawidlowe rozwiazanie
-    liczba_przypadkow = int(input())
+    input()  # wczytujemy przypadki, nie ma znaczenia bo przypadkow jest 100
     przypadek = 1
     while przypadek <= 100:
         liczba_wysp = int(input())
@@ -478,7 +478,6 @@ def main():
         else:
             Wyspa.wyznacz_droge(wyspy, trasa_do_pokonania, przypadek)
         print()
-        liczba_przypadkow -= 1
         przypadek += 1
 
 
